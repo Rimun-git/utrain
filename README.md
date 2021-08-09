@@ -1,1 +1,3 @@
-# utrain
+# maven-project
+
+Simple Maven Project
